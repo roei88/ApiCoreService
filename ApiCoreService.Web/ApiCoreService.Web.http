@@ -1,0 +1,6 @@
+@InfraSkillsPro_HostAddress = http://localhost:5111
+
+GET {{InfraSkillsPro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

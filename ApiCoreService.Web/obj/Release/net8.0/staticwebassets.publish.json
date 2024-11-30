@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "F4qgKOTp85F7+LEUHXcYR6MB/Z0WsSN2XOlElZ9vVf4=",
+  "Source": "ApiCoreService.Web",
+  "BasePath": "_content/ApiCoreService.Web",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
